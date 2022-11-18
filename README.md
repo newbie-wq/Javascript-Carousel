@@ -1,1 +1,1 @@
-# Javascript-Carousel
+# Javascript Carousel
